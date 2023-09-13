@@ -1,0 +1,7 @@
+.npm/*
+.local/*
+.jupyter/*
+.ipynb_checkpoints/*
+.cache/*
+.config/*
+.jupyter/*
